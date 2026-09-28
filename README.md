@@ -26,7 +26,7 @@ Microsoft SQL Server, SQL
 
 ## Repository Contents
 
-- [`car ddl_dml.sql`](./car ddl_dml.sql) — full SQL source, including schema creation, sample data, and queries, viewable directly on GitHub
+- [`car ddl_dml.sql`](./car%20ddl_dml.sql) — full SQL source, including schema creation, sample data, and queries, viewable directly on GitHub
 - [`report.pdf`](./report.pdf) — full project report, including system objectives, user requirements, the ERD, and annotated query examples
 
 ## About This Project
